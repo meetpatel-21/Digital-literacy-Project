@@ -3,7 +3,7 @@
 
 ---
 
-# Project Overview
+# Project Design
 
 For this project, I used Canva as my primary digital tool to create a visually engaging infographic. Canva proved to be highly effective due to its user-friendly drag-and-drop interface, extensive library of templates, and versatile design elements, which allowed me to structure information clearly without requiring advanced graphic design skills.
 
