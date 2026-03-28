@@ -2,7 +2,7 @@
 
 ## Email 1: Extension Request
 
-Subject: Requesting an extension on an assignment submission deadline
+***Subject*** : Requesting an extension on an assignment submission deadline
 
 Dear Professor Joshi
 
