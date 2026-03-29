@@ -39,5 +39,5 @@ Beyond this project, I am passionate about:
 ---
 
 📄 Final Report
-The comprehensive summary of my learning and digital ambassador activities can be found here: 👉 View Project Report
+The comprehensive summary of my learning and digital ambassador activities can be found here: **[View Project Report](./report.details.md)**
 
