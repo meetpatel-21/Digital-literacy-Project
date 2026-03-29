@@ -4,11 +4,11 @@
 
 ## 👤 Student Information
 
-- Name: Meet Patel
-- Registration Number: 25BAI10581
-- Branch: B.Tech in AIML
-- University: VIT Bhopal University
-- Batch: 2025–2029
+- **Name**: Meet Patel
+- **Registration Number**: 25BAI10581
+- **Branch**: B.Tech in AIML
+- **University**: VIT Bhopal University
+- **Batch**: 2025–2029
 
 ---
 
@@ -21,7 +21,7 @@ As a Student Digital Ambassador, I have documented my journey through five modul
 Module 1: Digital Presentation
 - Task: Created an original infographic on "Digital Literacy Awareness."
 - Learning: Focused on familiarizing people with important digitial literacy concepts
-- Location: task-1-presentation/
+- Location: `task1-presentation/`
 
 ## Module 2: Professional Portfolio
 - Task: Established a professional presence on GitHub, LinkedIn, and Kaggle.
