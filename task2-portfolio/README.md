@@ -1,3 +1,6 @@
+# Github profile
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fda2a8e-d1d3-42d2-91ab-806ea01562eb" />
 
 # Kaggle Profile
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/083af0a1-2460-4354-9382-832e171d67d1" />
