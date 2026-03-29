@@ -26,22 +26,22 @@ Module 1: Digital Presentation
 ## Module 2: Professional Portfolio
 - Task: Established a professional presence on GitHub, LinkedIn, and Kaggle.
 - Learning: Optimized my GitHub Profile README to showcase my interest in Python Development, Web Development, Competitive Coding ,AI modeling ,Computer Vision and   DSA (Data structure algorithm)
-- Location: task-2-portfolio/
+- Location: `task-2-portfolio/`
 
 ## Module 3: Platforms & Coding
 - Task: Solved a Python logic challenge on HackerRank and created a Google Form quiz for peer awareness.
 - Learning: Practiced cloud-based data collection and reinforced foundational Python syntax used in engineering simulations.
-- Location: task-3-platforms/
+- Location: `task-3-platforms/`
 
 ## Module 4: Email Etiquette
 - Task: Drafted formal emails for an extension request and an internship inquiry, along with a social media checklist.
 - Learning: Mastered professional communication standards essential for contacting industry experts and research coordinators.
-- Location: task-4-email-etiquette/
+- Location: `task-4-email-etiquette/`
 
 ## Module 5: Cybercrime Case Study
 - Task: Analyzed a "Cyberbullying Case" and created an 8-point "Stay Safe Online" checklist.
 - Learning: Identified social engineering tactics used in financial fraud and documented reporting procedures (Helpline 1930).
-- Location: task-5-cybercrime/
+- Location: `task-5-cybercrime/`
 
 
 ## 💡 Reflection: Challenges, Tools, and Insights
