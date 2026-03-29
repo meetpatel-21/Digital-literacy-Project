@@ -36,6 +36,8 @@ Beyond this project, I am passionate about:
 - AI modeling
 - Computer Vision and DSA
 
+---
+
 📄 Final Report
 The comprehensive summary of my learning and digital ambassador activities can be found here: 👉 View Project Report
 
