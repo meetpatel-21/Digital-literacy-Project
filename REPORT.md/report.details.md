@@ -21,7 +21,7 @@ As a Student Digital Ambassador, I have documented my journey through five modul
 Module 1: Digital Presentation
 - Task: Created an original infographic on "Digital Literacy Awareness."
 - Learning: Focused on familiarizing people with important digitial literacy concepts
-- Location: 
+- Location: `task-1-presentation/`
 
 ## Module 2: Professional Portfolio
 - Task: Established a professional presence on GitHub, LinkedIn, and Kaggle.
